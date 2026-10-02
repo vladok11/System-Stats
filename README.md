@@ -2,6 +2,8 @@
 
 A lightweight, highly optimized C-based system resource monitor for Linux. Designed with a focus on minimal CPU and RAM footprint.
 
+![system_stats preview](preview.png)
+
 ---
 
 ## Features
